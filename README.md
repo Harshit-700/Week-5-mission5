@@ -22,7 +22,7 @@ react-kanban-board/
 ├── index.html         
 ├── package.json       
 ├── eslint.config.js   
-├── src/
+├── src /   
 │   ├── main.jsx       
 │   ├── App.jsx        
 │   ├── components/    
