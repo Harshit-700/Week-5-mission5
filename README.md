@@ -18,6 +18,7 @@ Add your project screenshot here
 📁 Project Structure
 
 react-kanban-board/
+
 ├── index.html         
 ├── package.json       
 ├── eslint.config.js   
