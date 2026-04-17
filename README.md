@@ -18,15 +18,15 @@ Add your project screenshot here
 📁 Project Structure
 
 react-kanban-board/
-├── index.html         # Root HTML file (Vite entry)
-├── package.json       # Project dependencies and scripts
-├── eslint.config.js   # Linting configuration
+├── index.html         
+├── package.json       
+├── eslint.config.js   
 ├── src/
-│   ├── main.jsx       # React entry point
-│   ├── App.jsx        # Main application component
-│   ├── components/    # Task cards & columns
-│   └── styles/        # CSS styling
-└── public/            # Static assets
+│   ├── main.jsx       
+│   ├── App.jsx        
+│   ├── components/    
+│   └── styles/        
+└── public/            
 
 ---
 
